@@ -17,7 +17,7 @@
         </div>
         <!-- Header section -->
         <div class="jumbotron text-center">
-            <h1>Prijava Kolokvijuma</h1>
+            <h1>Prijava prvog kolokvijuma</h1>
             <p>Fakultet organizacionih nauka</p>
         </div>
 
